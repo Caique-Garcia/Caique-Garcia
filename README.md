@@ -1,4 +1,4 @@
-<h1>Oi eu sou Caique Garcia</h1>
+<h1>Olá! Eu sou Caique Garcia</h1>
 
 - 🌱 Atualmente estou estudando JavaScript e NodeJS
 - 📫 Contate-me no: caique.garciatst@gmail.com
