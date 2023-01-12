@@ -7,12 +7,17 @@
 <br>
 <div align="center">
   <a href="https://github.com/caique-garcia">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-garcia&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
+  <img align="left" height="140em" 
+       src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br>
+  <img align="left" height="140em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Garcia&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
+    </a>
 </div>
+ 
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
+<div  align="right"> 
+  <div align="center" style="display: inline_block"><br>
    <img align="left" height="250" alt="coding-time" src="code.gif">
    <h2 align="center">Melhores Tecnologias</h2>
    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
@@ -23,14 +28,22 @@
  </div>
  <br>
  <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+  
  
- <h2>Redes Sociais</h2>   
-<div> 
-  <a href="https://www.instagram.com/kiq_ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/caique.garcia.509" target="_blank"><img src="https://img.shields.io/badge/Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caique.garciatst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caique-ferreira-ba22a5248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<div align="center"> 
+   <h2>Redes Sociais</h2>   
+    <div align="center"> 
+      <a href="https://www.instagram.com/kiq_ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	    <a href="https://www.facebook.com/caique.garcia.509" target="_blank"><img src="https://img.shields.io/badge/-Facebook-7289DA?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+      <a href = "mailto:caique.garciatst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/caique-ferreira-ba22a5248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </div>
+  </div>
     
   
 
