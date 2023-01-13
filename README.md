@@ -8,14 +8,21 @@
 <div align="center">
   <a href="https://github.com/caique-garcia">
   <img align="left" height="140em" 
-       src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-       https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
-  <br>
-  <img align="left" height="140em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Garcia&layout=compact&langs_count=16&theme=dracula&include_all_commits=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&pat_1=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"/>
+       
+  
+  <img align="right" height="140em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Garcia&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&pat_1=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"/>
     </a>
 </div>
- 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div  align="right"> 
   <div align="center" style="display: inline_block"><br>
@@ -27,14 +34,10 @@
    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">    
  </div>
+
  <br>
  <br>
- <br>
- <br>
- <br>
- <br>
- <br>
-  
+ <br>  
  
 <div align="center"> 
    <h2>Redes Sociais</h2>   
