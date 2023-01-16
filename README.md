@@ -6,22 +6,16 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/caique-garcia">
-  <img align="left" height="140em" 
-       src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&pat_1=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"/>
+  <!--<a href="https://github.com/caique-garcia">
+ <img align="left" height="140em" 
+       src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&pat_1=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"/>-->
        
   
-  <img align="right" height="140em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Garcia&layout=compact&langs_count=16&theme=dracula&include_all_commits=true&pat_1=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"/>
+  <img align="center" height="140em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-garcia&layout=compact&show_icons=true&langs_count=16&theme=dracula&include_all_commits=true&pat_1=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"/>
     </a>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <div  align="right"> 
