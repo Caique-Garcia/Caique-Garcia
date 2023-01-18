@@ -11,10 +11,10 @@
        src="https://github-readme-stats.vercel.app/api?username=caique-garcia&show_icons=true&theme=dracula&include_all_commits=true&pat_1=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"/>-->
        
   
-  <img align="center" height="140em"
+ <!-- <img align="center" height="140em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-garcia&layout=compact&show_icons=true&langs_count=16&theme=dracula&include_all_commits=true&pat_1=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"/>
     </a>
-</div>
+</div>-->
 
 <br>
 
