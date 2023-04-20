@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou Caique Garcia</h1>
 
-- 🌱 Atualmente estou trabalhando com Delphi. ![#EE1F35](https://img.shields.io/badge/-Nome_do_Ícone-<Cor_do_Ícone>?style=flat-square&logo=<Nome_do_Ícone>&logoColor=white)
+- 🌱 Atualmente estou trabalhando com Delphi. <img align="center" height="30" width="40" alt="html-icon" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/delphi.svg">
 
 - 📫 Contate-me no: caique.garciatst@gmail.com
 - ⚡ Fato curioso: gosto de jogar Dota 2 nas horas vagas
